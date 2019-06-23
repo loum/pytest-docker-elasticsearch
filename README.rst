@@ -1,6 +1,6 @@
-====================
-pytest-elasticsearch
-====================
+===========================
+pytest-docker-elasticsearch
+===========================
 
 A simple Docker Elasticsearch plugin to use with pytest.
 
